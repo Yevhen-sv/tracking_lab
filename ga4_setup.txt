@@ -1,1 +1,1 @@
-GA4 is running
+STATUS: EXPERIMENT_TEST
